@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](Full_logo.png)
+![image](./Full_logo.png)
 
 <!--
 
